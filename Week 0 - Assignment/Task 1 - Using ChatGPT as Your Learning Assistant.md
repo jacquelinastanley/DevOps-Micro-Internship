@@ -15,4 +15,6 @@ You’re new to DevOps and will frequently encounter technical questions. ChatGP
 
 ![task1](Using ChatGPT as Your Learning Assistant.png) 
 
+![task1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
   
