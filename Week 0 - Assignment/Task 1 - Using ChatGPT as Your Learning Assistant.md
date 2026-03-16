@@ -13,8 +13,6 @@ You’re new to DevOps and will frequently encounter technical questions. ChatGP
  
   ## This is how I did the task
 
-![task1](Using ChatGPT as Your Learning Assistant.png) 
-
-![task1](https://github.com/jacquelinastanley/DevOps-Micro-Internship/blob/9dbe8349ab1a145816184b1ae45bc4cec6659875/Using%20ChatGPT%20as%20Your%20Learning%20Assistant.png)
+![task1](https://github.com/jacquelinastanley/DevOps-Micro-Internship/blob/57d84af2bdf6d75f4f20b06e2a94cc6b0c055f26/Using%20ChatGPT%20as%20Your%20Learning%20Assistant.png.png)
 
   
