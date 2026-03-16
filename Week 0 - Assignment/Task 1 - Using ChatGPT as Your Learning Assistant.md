@@ -15,4 +15,5 @@ You’re new to DevOps and will frequently encounter technical questions. ChatGP
 
 ![task1](https://github.com/jacquelinastanley/DevOps-Micro-Internship/blob/57d84af2bdf6d75f4f20b06e2a94cc6b0c055f26/Using%20ChatGPT%20as%20Your%20Learning%20Assistant.png.png)
 
-  
+From this task I learnt that Chatgpt is a helpful tool to be used for learning. It can help provide answers in a simplified and clear way to clarify any doubts. It is an efficient tool as you can ask it quickly and get your answer quickly which is very helpful in Devops learning. 
+
