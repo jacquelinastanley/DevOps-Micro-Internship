@@ -1,14 +1,16 @@
-🌐 Task 2: Internet and Networking
-Scenario
-Your friend is launching an online bookstore named EpicReads.
-He asked you to explain how users globally can access his website hosted in Finland.
+## 🌐 Task 2: Internet and Networking
 
-Your Task
-Write a short explanation (100–150 words) that includes:
-Packet Switching
-IP Address
-TCP/IP
-HTTP/HTTPS
+### Scenario
+Your friend is launching an online bookstore named **EpicReads**.  
+He asked you to explain how users globally can access his website hosted in Finland.  
+
+### Your Task
+- Write a short explanation (**100–150 words**) that includes:
+  - **Packet Switching**  
+  - **IP Address**  
+  - **TCP/IP**  
+  - **HTTP/HTTPS**  
+
 
 ## This is how I completed the task 
 
