@@ -19,3 +19,5 @@ Publishing on **LinkedIn** helps you:
 > P.S. This post is part of the FREE **DevOps Micro Internship** Cohort run by **[Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)**. You can start your DevOps journey for free from his **[YouTube Playlist](https://www.youtube.com/playlist?list=PLVOdqXbCs7bX88JeUZmK4fKTq2hJ5VS89)**.
 
 ## How I completed this task 
+
+https://www.linkedin.com/posts/jacquelinastanley_devops-basics-ugcPost-7439312609293627393-sCwo?utm_source=share&utm_medium=member_desktop&rcm=ACoAACqgUDgBkc_3b0ArkGRFdG2zpRLpgXmzwTo 
