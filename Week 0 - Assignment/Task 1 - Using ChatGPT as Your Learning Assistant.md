@@ -13,4 +13,6 @@ You’re new to DevOps and will frequently encounter technical questions. ChatGP
  
   ## This is how I did the task
 
+![task1](Using ChatGPT as Your Learning Assistant.png) 
+
   
