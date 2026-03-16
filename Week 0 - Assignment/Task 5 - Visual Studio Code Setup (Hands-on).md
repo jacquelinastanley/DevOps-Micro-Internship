@@ -16,4 +16,4 @@
 
 ## How I completed this task 
 
-![task5]()
+![task5](https://github.com/jacquelinastanley/DevOps-Micro-Internship/blob/d6387314a222717b619815967a3a604b1d7e8eab/Visual%20Studio%20Code.png)
