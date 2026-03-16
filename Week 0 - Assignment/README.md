@@ -1,3 +1,0 @@
-DevOps Micro Internship (DMI) – Cohort 3
-This repository contains the weekly assignments and challenges for the
-DevOps Micro Internship (DMI) – Cohort 3 run by Pravin Mishra / CloudAdvisory.
