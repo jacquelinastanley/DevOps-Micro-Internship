@@ -15,3 +15,9 @@ EpicReads bookstore has two app versions:
 ## How I complted this task 
 
 ![Task3](https://github.com/jacquelinastanley/DevOps-Micro-Internship/blob/6f463e85dac9fd73deeb2326ed4b327603f81f06/Two%20Tier%20and%20Three%20Tier%20%20WEB%20Application.jpg)
+
+
+| Frontend Tool | Backend Tool  | Database Tool  |
+| ------------- |:-------------:| :-------------:|
+| React         | Node.js       | PostgreSQL     |
+| Angular       | Django        | MongoDB        |
